@@ -17,7 +17,7 @@
     <sup>3</sup> Key Laboratory of Embedded System and Service Computing (Ministry of Education),<br> School of Computer Science and Technology, Tongji University, Shanghai, China<br>
     <sup>4</sup> Peng Cheng Laboratory, Shenzhen, China<br>
     <sup>5</sup> Department of Computer Science, City University of Hong Kong, Kowloon, Hong Kong<br>
-    <sup>6</sup> School of Data Science, Lingnan University, Tuen Mun, Hongkong
+    <sup>6</sup> School of Data Science, Lingnan University, Tuen Mun, Hong Kong
     </small>
   </p>
 </div>
